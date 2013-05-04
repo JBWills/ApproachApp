@@ -21,15 +21,10 @@ NOTE: the paths placed in the code are only there to show you how they should be
 Team members:
 
 James Wills
-
 Jarah Moesch
-
 Paul Saiedi
-
 Daniel Greene
-
 Jessica Walker
-
 Jason Farman
 
 Full works cited https://docs.google.com/document/d/1mmyKqicfAA6TqmeGpDLti-fbmVLr4u3C03ITxlliuQU/edit?usp=sharing
