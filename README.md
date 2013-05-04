@@ -19,7 +19,7 @@ How to use this code:
 NOTE: the paths placed in the code are only there to show you how they should be formatted, if you want to add your own path, just delete what I have and place your own encoded path, audio title, format, path title, path description, and path color into the FakeDataBase.m file. To make your own encoded path, use this utility: https://developers.google.com/maps/documentation/utilities/polylineutility
 
 Team members:
-
+ 
 James Wills
 Jarah Moesch
 Paul Saiedi
