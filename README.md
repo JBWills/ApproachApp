@@ -12,14 +12,17 @@ Too often a single story dominates a space, defining what counts as credible whi
 
 How to use this code:
 1. Get an API Key for Google Maps: https://developers.google.com/maps/ios-access
+
 2. Paste the key in the FakeDataBase.m file where it says "Your-Key-Here"
+
 3. Import your own audio to the app
+
 4. Replace the placeholder audio file names with audio you imported
 
 NOTE: the paths placed in the code are only there to show you how they should be formatted, if you want to add your own path, just delete what I have and place your own encoded path, audio title, format, path title, path description, and path color into the FakeDataBase.m file. To make your own encoded path, use this utility: https://developers.google.com/maps/documentation/utilities/polylineutility
 
 Team members:
- 
+
 James Wills
 Jarah Moesch
 Paul Saiedi
