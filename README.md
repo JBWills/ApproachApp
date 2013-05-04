@@ -1,4 +1,4 @@
-ApproachApp
+Approach
 ========
 
 Approach is a locative, audio based art app for iOS. This code provides an easy to use and modify path tool that allows the user to play audio while walking along a path. It includes a marker that properly moves along the path based on where the user "should" be walking.
