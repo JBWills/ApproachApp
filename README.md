@@ -3,9 +3,9 @@ Approach
 
 Approach is a locative, audio based art app for iOS. This code provides an easy to use and modify audio tour tool that displays a path on a map and an interface to control audio playback of the story that cooresponds to the path. It includes a marker that properly moves along the path based on where the user "should" be walking.
 
-![Alt text](screenshots/Choose-Path.png?raw=true)
-![Alt text](screenshots/Show-All-Paths.png?raw=true)
-![Alt text](screenshots/Listen-to-Path.png?raw=true)
+![Alt text](screenshots/Choose-Path.png?raw=true "Choose Path Screen")
+![Alt text](screenshots/Show-All-Paths.png?raw=true "Choose Path w/ Show All Paths Selected")
+![Alt text](screenshots/Listen-to-Path.png?raw=true "Play seleceted path")
 
 Approach:
 - Uses the Google Maps API for iOS
